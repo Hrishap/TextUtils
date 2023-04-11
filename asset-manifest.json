@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//Hrishap.github.io/TextUtils/static/css/main.abd64e84.css",
+    "main.js": "//Hrishap.github.io/TextUtils/static/js/main.800d8c3f.js",
+    "static/js/787.719ec76d.chunk.js": "//Hrishap.github.io/TextUtils/static/js/787.719ec76d.chunk.js",
+    "index.html": "//Hrishap.github.io/TextUtils/index.html",
+    "main.abd64e84.css.map": "//Hrishap.github.io/TextUtils/static/css/main.abd64e84.css.map",
+    "main.800d8c3f.js.map": "//Hrishap.github.io/TextUtils/static/js/main.800d8c3f.js.map",
+    "787.719ec76d.chunk.js.map": "//Hrishap.github.io/TextUtils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.800d8c3f.js"
+  ]
+}
